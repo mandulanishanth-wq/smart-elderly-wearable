@@ -1,0 +1,18 @@
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.elf
+*.bin
+*.hex
+*.map
+build/
+out/
+
+# Local configuration / secrets
+config.h
+secrets.h
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
